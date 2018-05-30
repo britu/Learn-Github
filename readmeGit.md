@@ -35,11 +35,15 @@ Download and initialize step by step
 ## Branch create
 	* git branch "branch name"
 	* git checkout branch
-	* git push -u orighi 
-	* git merge "branch name" : Merge new branch in master branch
+	* git push -u origin 
+	* git merge "branch name" : Merge new branch in master branch //checkout
 	* git branch -d "branch name" this will delete from your local 
 	* git push origin -- delete "branch name"
 	* git branch :to show all branch
+
+## Delete file from master remote
+	* git commit -m "Your Comment"
+	* git push
 	
 
 
