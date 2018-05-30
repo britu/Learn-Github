@@ -30,13 +30,17 @@ Download and initialize step by step
 	* How to create branch
 	* How to checkout branch
 	* How to merge branch to master
-	* How to delete branch (local and remote)
+	* How to delete branch (local and remote) britu
 
 ## Branch create
 	* git branch "branch name"
 	* git checkout branch
+	* git push -u orighi 
 	* git merge "branch name" : Merge new branch in master branch
-
+	* git branch -d "branch name" this will delete from your local 
+	* git push origin -- delete "branch name"
+	* git branch :to show all branch
+	
 
 
 
